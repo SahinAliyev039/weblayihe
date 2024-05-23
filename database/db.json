@@ -1,0 +1,1124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Ralph Lauren",
+      "brandTitle": "ralph-lauren",
+      "productCategory": "clothing",
+      "productName": "t-shirt",
+      "title": "ralph-lauren-t-shirt",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 1
+        },
+        {
+          "size": "s",
+          "count": 0
+        },
+        {
+          "size": "m",
+          "count": 5
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 1
+        }
+      ],
+      "color": "blue",
+      "price": 450,
+      "discountOffer": true,
+      "discount": 50,
+      "image": [
+        "database/assets/images/products/ralph-lauren/t-shirt-one-1.jpg",
+        "database/assets/images/products/ralph-lauren/t-shirt-one-2.jpg"
+      ],
+      "description": "Klassik yaxalı qısaqol polo"
+    },
+    {
+      "id": 2,
+      "brand": "Ralph Lauren",
+      "brandTitle": "ralph-lauren",
+      "productCategory": "clothing",
+      "productName": "t-shirt",
+      "title": "ralph-lauren-t-shirt",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 1
+        },
+        {
+          "size": "s",
+          "count": 0
+        },
+        {
+          "size": "m",
+          "count": 5
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 1
+        }
+      ],
+      "color": "blue",
+      "price": 235,
+      "discountOffer": true,
+      "discount": 70,
+      "image": [
+        "database/assets/images/products/ralph-lauren/t-shirt-two-1.jpg",
+        "database/assets/images/products/ralph-lauren/t-shirt-two-2.jpg"
+      ],
+      "description": "Dairəvi yaxa ilə qısaqol T-shirt"
+    },
+    {
+      "id": 3,
+      "brand": "Versace",
+      "brandTitle": "versace",
+      "productCategory": "clothing",
+      "productName": "jacket",
+      "title": "versace-jacket",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 1
+        },
+        {
+          "size": "s",
+          "count": 0
+        },
+        {
+          "size": "m",
+          "count": 5
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 1
+        }
+      ],
+      "color": "blue",
+      "price": 2925,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/versace/jacket-one-1.jpg",
+        "database/assets/images/products/versace/jacket-one-2.jpg",
+        "database/assets/images/products/versace/jacket-one-3.jpg",
+        "database/assets/images/products/versace/jacket-one-4.jpg"
+      ],
+      "description": "Loqo naxışlı uzunqol kardiqan"
+    },
+    {
+      "id": 4,
+      "brand": "Versace",
+      "brandTitle": "versace",
+      "productCategory": "shoes",
+      "productName": "sport-shoes",
+      "title": "versace-shoes",
+      "sizes": [
+        {
+          "size": "36",
+          "count": 0
+        },
+        {
+          "size": "36.5",
+          "count": 0
+        },
+        {
+          "size": "37",
+          "count": 0
+        },
+        {
+          "size": "37.5",
+          "count": 2
+        },
+        {
+          "size": "38",
+          "count": 3
+        },
+        {
+          "size": "38.5",
+          "count": 2
+        },
+        {
+          "size": "39",
+          "count": 5
+        },
+        {
+          "size": "39.5",
+          "count": 2
+        },
+        {
+          "size": "40",
+          "count": 0
+        },
+        {
+          "size": "40.5",
+          "count": 2
+        },
+        {
+          "size": "41",
+          "count": 0
+        },
+        {
+          "size": "41.5",
+          "count": 2
+        },
+        {
+          "size": "42",
+          "count": 0
+        },
+        {
+          "size": "42.5",
+          "count": 0
+        },
+        {
+          "size": "43",
+          "count": 0
+        },
+        {
+          "size": "43.5",
+          "count": 2
+        },
+        {
+          "size": "44",
+          "count": 0
+        },
+        {
+          "size": "44.5",
+          "count": 2
+        },
+        {
+          "size": "45",
+          "count": 0
+        }
+      ],
+      "color": "white",
+      "price": 1150,
+      "discountOffer": true,
+      "discount": 100,
+      "image": [
+        "database/assets/images/products/versace/sport-shoes-one-1.jpg",
+        "database/assets/images/products/versace/sport-shoes-one-2.jpg",
+        "database/assets/images/products/versace/sport-shoes-one-3.jpg",
+        "database/assets/images/products/versace/sport-shoes-one-4.jpg",
+        "database/assets/images/products/versace/sport-shoes-one-5.jpg"
+      ],
+      "description": "Greca detallı krossovka"
+    },
+    {
+      "id": 5,
+      "brand": "Coach",
+      "brandTitle": "coach",
+      "productCategory": "bag",
+      "productName": "handbag",
+      "title": "coach-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 0
+        },
+        {
+          "size": "medium",
+          "count": 5
+        },
+        {
+          "size": "large",
+          "count": 0
+        }
+      ],
+      "color": "beige",
+      "price": 835,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/coach/handbag-one-1.jpg",
+        "database/assets/images/products/coach/handbag-one-2.jpg",
+        "database/assets/images/products/coach/handbag-one-3.jpg"
+      ],
+      "description": "Çiyindən asma dəri Willow çantası"
+    },
+    {
+      "id": 6,
+      "brand": "Coach",
+      "brandTitle": "coach",
+      "productCategory": "shoes",
+      "productName": "sport-shoes",
+      "title": "coach-shoes",
+      "sizes": [
+        {
+          "size": "36",
+          "count": 1
+        },
+        {
+          "size": "36.5",
+          "count": 0
+        },
+        {
+          "size": "37",
+          "count": 2
+        },
+        {
+          "size": "37.5",
+          "count": 0
+        },
+        {
+          "size": "38",
+          "count": 2
+        },
+        {
+          "size": "38.5",
+          "count": 0
+        },
+        {
+          "size": "39",
+          "count": 0
+        },
+        {
+          "size": "39.5",
+          "count": 0
+        },
+        {
+          "size": "40",
+          "count": 1
+        },
+        {
+          "size": "40.5",
+          "count": 0
+        },
+        {
+          "size": "41",
+          "count": 0
+        },
+        {
+          "size": "41.5",
+          "count": 0
+        },
+        {
+          "size": "42",
+          "count": 0
+        },
+        {
+          "size": "42.5",
+          "count": 0
+        },
+        {
+          "size": "43",
+          "count": 0
+        },
+        {
+          "size": "43.5",
+          "count": 0
+        },
+        {
+          "size": "44",
+          "count": 0
+        },
+        {
+          "size": "44.5",
+          "count": 0
+        },
+        {
+          "size": "45",
+          "count": 0
+        }
+      ],
+      "color": "black",
+      "price": 430,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/coach/sport-shoes-two-1.jpg",
+        "database/assets/images/products/coach/sport-shoes-two-2.jpg"
+      ],
+      "description": "Qara rəngli iplərlə bağlanma yarımboğaz krossovka"
+    },
+    {
+      "id": 7,
+      "brand": "Coach",
+      "brandTitle": "coach",
+      "productCategory": "bag",
+      "productName": "handbag",
+      "title": "coach-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 0
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 3
+        }
+      ],
+      "color": "beige",
+      "price": 980,
+      "discountOffer": true,
+      "discount": 294,
+      "image": [
+        "database/assets/images/products/coach/handbag-three-1.jpg",
+        "database/assets/images/products/coach/handbag-three-2.jpg",
+        "database/assets/images/products/coach/handbag-three-3.jpg"
+      ],
+      "description": "Ağ rəngli dəri aşırma çantası"
+    },
+    {
+      "id": 8,
+      "brand": "Coach",
+      "brandTitle": "coach",
+      "productCategory": "bag",
+      "productName": "crossbody-bag",
+      "title": "coach-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 2
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 0
+        }
+      ],
+      "color": "black",
+      "price": 690,
+      "discountOffer": true,
+      "discount": 100,
+      "image": [
+        "database/assets/images/products/coach/crossbody-bag-four-1.jpg",
+        "database/assets/images/products/coach/crossbody-bag-four-2.jpg",
+        "database/assets/images/products/coach/crossbody-bag-four-3.jpg"
+      ],
+      "description": "Qara rəngli dənəvari dəridən hazırlanmış çarpaz çiyin çantası"
+    },
+    {
+      "id": 9,
+      "brand": "Lancome",
+      "brandTitle": "lancome",
+      "productCategory": "cosmetics",
+      "productName": "perfume-set",
+      "title": "lancome-cosmetics",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 1
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 4
+        }
+      ],
+      "color": "pink",
+      "price": 215,
+      "discountOffer": false,
+      "discount": 0,
+      "image": ["database/assets/images/products/lancome/perfume-set-one-1.jpg"],
+      "description": "Idole dəsti"
+    },
+    {
+      "id": 10,
+      "brand": "Lancome",
+      "brandTitle": "lancome",
+      "productCategory": "cosmetics",
+      "productName": "perfume-set",
+      "title": "lancome-cosmetics",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 7
+        },
+        {
+          "size": "medium",
+          "count": 3
+        },
+        {
+          "size": "large",
+          "count": 0
+        }
+      ],
+      "color": "pink",
+      "price": 225,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/lancome/perfume-set-two-1.jpg",
+        "database/assets/images/products/lancome/perfume-set-two-2.jpg"
+      ],
+      "description": "La Vie Est Belle dəsti"
+    },
+    {
+      "id": 11,
+      "brand": "Marc Jacobs",
+      "brandTitle": "marc-jacobs",
+      "productCategory": "bag",
+      "productName": "wallet",
+      "title": "marc-jacobs-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 0
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 4
+        }
+      ],
+      "color": "black",
+      "price": 435,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/marc-jacobs/wallet-one-1.jpg",
+        "database/assets/images/products/marc-jacobs/wallet-one-2.jpg",
+        "database/assets/images/products/marc-jacobs/wallet-one-3.jpg"
+      ],
+      "description": "Loqo detallı portmone"
+    },
+    {
+      "id": 12,
+      "brand": "Marc Jacobs",
+      "brandTitle": "marc-jacobs",
+      "productCategory": "clothing",
+      "productName": "jacket",
+      "title": "marc-jacobs-clothing",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 2
+        },
+        {
+          "size": "s",
+          "count": 2
+        },
+        {
+          "size": "m",
+          "count": 1
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ],
+      "color": "black",
+      "price": 2055,
+      "discountOffer": true,
+      "discount": 150,
+      "image": [
+        "database/assets/images/products/marc-jacobs/jacket-two-1.jpg",
+        "database/assets/images/products/marc-jacobs/jacket-two-2.jpg",
+        "database/assets/images/products/marc-jacobs/jacket-two-3.jpg"
+      ],
+      "description": "Qısaldılmış uzunqol gödəkçə"
+    },
+    {
+      "id": 13,
+      "brand": "Marc Jacobs",
+      "brandTitle": "marc-jacobs",
+      "productCategory": "clothing",
+      "productName": "t-shirt",
+      "title": "marc-jacobs-clothing",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 5
+        },
+        {
+          "size": "s",
+          "count": 3
+        },
+        {
+          "size": "m",
+          "count": 4
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ],
+      "color": "white",
+      "price": 425,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/marc-jacobs/t-shirt-three-1.jpg",
+        "database/assets/images/products/marc-jacobs/t-shirt-three-2.jpg",
+        "database/assets/images/products/marc-jacobs/t-shirt-three-3.jpg"
+      ],
+      "description": "Böyük ölçülü loqo printli qısaqol T-shirt"
+    },
+    {
+      "id": 14,
+      "brand": "Michael Kors",
+      "brandTitle": "michael-kors",
+      "productCategory": "clothing",
+      "productName": "jacket",
+      "title": "michael-kors-clothing",
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 1
+        },
+        {
+          "size": "s",
+          "count": 1
+        },
+        {
+          "size": "m",
+          "count": 2
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 1
+        }
+      ],
+      "color": "black",
+      "price": 1030,
+      "discountOffer": true,
+      "discount": 90,
+      "image": [
+        "database/assets/images/products/michael-kors/jacket-one-1.jpg",
+        "database/assets/images/products/michael-kors/jacket-one-2.jpg",
+        "database/assets/images/products/michael-kors/jacket-one-3.jpg"
+      ],
+      "description": "Qara rəngli qısa dəri gödəkçə"
+    },
+    {
+      "id": 15,
+      "brand": "Michael Kors",
+      "brandTitle": "michael-kors",
+      "productCategory": "accessories",
+      "productName": "watch",
+      "title": "michael-kors-accessories",
+      "sizes": [
+        {
+          "size": "small",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 5
+        }
+      ],
+      "color": "brown",
+      "price": 380,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/michael-kors/watch-two-1.jpg",
+        "database/assets/images/products/michael-kors/watch-two-2.jpg"
+      ],
+      "description": "Kristalla bəzədilmiş Pyper qol saatı"
+    },
+    {
+      "id": 16,
+      "brand": "Michael Kors",
+      "brandTitle": "michael-kors",
+      "productCategory": "bag",
+      "productName": "wallet",
+      "title": "michael-kors-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 3
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 0
+        }
+      ],
+      "color": "green",
+      "price": 215,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/michael-kors/wallet-three-1.jpg",
+        "database/assets/images/products/michael-kors/wallet-three-2.jpg",
+        "database/assets/images/products/michael-kors/wallet-three-3.jpg"
+      ],
+      "description": "Loqo detallı dəri portmone"
+    },
+    {
+      "id": 17,
+      "brand": "Emporio Armani",
+      "brandTitle": "emporio-armani",
+      "productCategory": "bag",
+      "productName": "handbag",
+      "title": "emporio-armani-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 1
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 5
+        }
+      ],
+      "color": "red",
+      "price": 300,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/emporio-armani/bag-one-1.webp",
+        "database/assets/images/products/emporio-armani/bag-one-2.webp",
+        "database/assets/images/products/emporio-armani/bag-one-3.webp",
+        "database/assets/images/products/emporio-armani/bag-one-4.webp",
+        "database/assets/images/products/emporio-armani/bag-one-5.webp"
+      ],
+      "description": ""
+    },
+    {
+      "id": 18,
+      "brand": "Pinko",
+      "brandTitle": "pinko",
+      "productCategory": "bag",
+      "productName": "crossbody-bag",
+      "title": "emporio-armani-bag",
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 1
+        },
+        {
+          "size": "medium",
+          "count": 4
+        },
+        {
+          "size": "large",
+          "count": 2
+        }
+      ],
+      "color": "red",
+      "price": 350,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/pinko/bag-one-1.jpeg",
+        "database/assets/images/products/pinko/bag-one-2.jpeg",
+        "database/assets/images/products/pinko/bag-one-3.jpeg",
+        "database/assets/images/products/pinko/bag-one-4.webp"
+      ],
+      "description": "Material - Dəri Uzunluq: 12,5 cm En: 21 cm Dərinlik: 5,5 cm Zəncirin uzunluğu: 114 cm"
+    },
+    {
+      "id": 19,
+      "brand": "Bally",
+      "brandTitle": "bally",
+      "productCategory": "bag",
+      "productName": "wallet",
+      "title": "bally-wallet",
+      "sizes": [
+        {
+          "size": "small",
+          "count": 7
+        },
+        {
+          "size": "large",
+          "count": 0
+        },
+        {
+          "size": "standart",
+          "count": 4
+        }
+      ],
+      "color": "black",
+      "price": 300,
+      "discountOffer": false,
+      "discount": 0,
+      "image": [
+        "database/assets/images/products/bally/wallet-one-1.jpeg",
+        "database/assets/images/products/bally/wallet-one-2.jpeg",
+        "database/assets/images/products/bally/wallet-one-3.jpeg",
+        "database/assets/images/products/bally/wallet-one-4.jpeg"
+      ],
+      "description": "Material - Dəri"
+    },
+    {
+      "id": 20,
+      "brand": "Lacoste",
+      "brandTitle": "lacoste",
+      "productCategory": "bag",
+      "productName": "backpack",
+      "title": "lacoste-bag",
+      "sizes": [
+        {
+          "size": "small",
+          "count": 7
+        },
+        {
+          "size": "large",
+          "count": 5
+        },
+        {
+          "size": "standart",
+          "count": 2
+        }
+      ],
+      "color": "black",
+      "price": 250,
+      "discountOffer": true,
+      "discount": 30,
+      "image": [
+        "database/assets/images/products/lacoste/bag-one-1.webp",
+        "database/assets/images/products/lacoste/bag-one-2.webp",
+        "database/assets/images/products/lacoste/bag-one-3.webp",
+        "database/assets/images/products/lacoste/bag-one-4.webp"
+      ],
+      "description": ""
+    },
+    {
+      "id": 21,
+      "brand": "Valentino",
+      "brandTitle": "valentino",
+      "productCategory": "shoes",
+      "productName": "sport-shoes",
+      "title": "valentino-sport-shoes",
+      "color": "monogram",
+      "price": 240,
+      "discountOffer": false,
+      "discount": 0,
+      "sizes": [
+        {
+          "size": "36",
+          "count": 1
+        },
+        {
+          "size": "36.5",
+          "count": 4
+        },
+        {
+          "size": "37",
+          "count": 0
+        },
+        {
+          "size": "37.5",
+          "count": 2
+        },
+        {
+          "size": "38",
+          "count": 2
+        },
+        {
+          "size": "38.5",
+          "count": 6
+        },
+        {
+          "size": "39",
+          "count": 2
+        },
+        {
+          "size": "39.5",
+          "count": 3
+        },
+        {
+          "size": "40",
+          "count": 4
+        },
+        {
+          "size": "40.5",
+          "count": 2
+        },
+        {
+          "size": "41",
+          "count": 9
+        },
+        {
+          "size": "41.5",
+          "count": 10
+        },
+        {
+          "size": "42",
+          "count": 4
+        },
+        {
+          "size": "42.5",
+          "count": 0
+        },
+        {
+          "size": "43",
+          "count": 0
+        },
+        {
+          "size": "43.5",
+          "count": 5
+        },
+        {
+          "size": "44",
+          "count": 15
+        },
+        {
+          "size": "44.5",
+          "count": 3
+        },
+        {
+          "size": "45",
+          "count": 2
+        }
+      ],
+      "image": [
+        "database/assets/images/products/valentino/sport-shoes-one-1.jpg",
+        "database/assets/images/products/valentino/sport-shoes-one-2.jpg"
+      ],
+      "description": "Valentino Garavani Lacerunner krujeva və dəri detallı toru idman ayaqqabısı."
+    },
+    {
+      "id": 22,
+      "brand": "Valentino",
+      "brandTitle": "valentino",
+      "productCategory": "shoes",
+      "productName": "sport-shoes",
+      "title": "valentino-sport-shoes",
+      "color": "black",
+      "price": 480,
+      "discountOffer": true,
+      "discount": 50,
+      "sizes": [
+        {
+          "size": "36",
+          "count": 1
+        },
+        {
+          "size": "36.5",
+          "count": 4
+        },
+        {
+          "size": "37",
+          "count": 0
+        },
+        {
+          "size": "37.5",
+          "count": 2
+        },
+        {
+          "size": "38",
+          "count": 3
+        },
+        {
+          "size": "38.5",
+          "count": 6
+        },
+        {
+          "size": "39",
+          "count": 1
+        },
+        {
+          "size": "39.5",
+          "count": 3
+        },
+        {
+          "size": "40",
+          "count": 4
+        },
+        {
+          "size": "40.5",
+          "count": 2
+        },
+        {
+          "size": "41",
+          "count": 7
+        },
+        {
+          "size": "41.5",
+          "count": 10
+        },
+        {
+          "size": "42",
+          "count": 4
+        },
+        {
+          "size": "42.5",
+          "count": 0
+        },
+        {
+          "size": "43",
+          "count": 0
+        },
+        {
+          "size": "43.5",
+          "count": 5
+        },
+        {
+          "size": "44",
+          "count": 6
+        },
+        {
+          "size": "44.5",
+          "count": 3
+        },
+        {
+          "size": "45",
+          "count": 8
+        }
+      ],
+      "image": [
+        "database/assets/images/products/valentino/sport-shoes-two-1.jpg",
+        "database/assets/images/products/valentino/sport-shoes-two-2.jpg"
+      ],
+      "description": "Valentino Garavani Lacerunner krujeva və dəri detallı toru idman ayaqqabısı."
+    },
+    {
+      "id": 23,
+      "brand": "Valentino",
+      "brandTitle": "valentino",
+      "productCategory": "bag",
+      "productName": "wallet",
+      "title": "valentino-wallet",
+      "color": "purple",
+      "price": 160,
+      "discountOffer": false,
+      "discount": 0,
+      "sizes": [
+        {
+          "size": "mini",
+          "count": 1
+        },
+        {
+          "size": "small",
+          "count": 4
+        },
+        {
+          "size": "medium",
+          "count": 0
+        },
+        {
+          "size": "large",
+          "count": 2
+        },
+        {
+          "size": "standart",
+          "count": 3
+        }
+      ],
+      "image": [
+        "database/assets/images/products/valentino/wallet-one-1.jpg",
+        "database/assets/images/products/valentino/wallet-one-2.jpg",
+        "database/assets/images/products/valentino/wallet-one-3.jpg"
+      ],
+      "description": "Dəri detallı cins effektli Toile Iconographe jakkard parçadan Valentino Garavani Toile Iconographe pulqabı."
+    },
+    {
+      "id": 24,
+      "brand": "Charles&Keith",
+      "brandTitle": "charles-keith",
+      "productCategory": "bag",
+      "productName": "crossbody-bag",
+      "title": "charles-keith-crossbody-bag",
+      "color": "cream",
+      "price": 180,
+      "discountOffer": false,
+      "discount": 0,
+      "sizes": [
+        {
+          "size": "xs",
+          "count": 0
+        },
+        {
+          "size": "s",
+          "count": 7
+        },
+        {
+          "size": "m",
+          "count": 3
+        },
+        {
+          "size": "l",
+          "count": 2
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ],
+      "image": [
+        "database/assets/images/products/charles-keith/crossbody-bag-one-1.jpg",
+        "database/assets/images/products/charles-keith/crossbody-bag-one-2.jpg",
+        "database/assets/images/products/charles-keith/crossbody-bag-one-3.jpg"
+      ],
+      "description": "Bu məhsul çəkiyə görə ən azı 20% davamlı materiallardan hazırlanır. CHARLES & KEITH ekoloji şüurlu kolleksiyamızda təkrar emal edilmiş, parçalana bilən, üzvi və su əsaslı materiallardan istifadə edir."
+    },
+    {
+        "id": 25,
+        "brand": "Liu Jo",
+        "brandTitle": "liu-jo",
+        "productCategory": "clothing",
+        "productName": "t-shirt",
+        "title": "liu-jo-t-shirt",
+        "sizes": [
+          {
+            "size": "xs",
+            "count": 0
+          },
+          {
+            "size": "s",
+            "count": 9
+          },
+          {
+            "size": "m",
+            "count": 1
+          },
+          {
+            "size": "l",
+            "count": 3
+          },
+          {
+            "size": "xl",
+            "count": 6
+          }
+        ],
+        "color": "white",
+        "price": 350,
+        "discountOffer": true,
+        "discount": 20,
+        "image": [
+            "database/assets/images/products/liu-jo/t-shirt-one-1.jpg",
+            "database/assets/images/products/liu-jo/t-shirt-one-2.jpg"
+        ],
+        "description": "Liu Jo 23/24 kişilər üçün t-shirt."
+    }
+  ]
+}
